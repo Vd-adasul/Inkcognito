@@ -1,0 +1,12 @@
+# Core dependencies
+python-dotenv>=1.0.0
+
+# Google Gemini API
+google-generativeai>=0.3.0
+
+# NLP libraries for humanization
+nltk>=3.8.0
+spacy>=3.5.0
+
+# Note: After installing, you may need to download spaCy model:
+# python -m spacy download en_core_web_sm
